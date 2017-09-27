@@ -31,6 +31,7 @@ for i in range(13,18):
         
 i = 13
 while i<=27:
+    print(i)
     i = i + 2
 
 """
