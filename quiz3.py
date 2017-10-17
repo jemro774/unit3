@@ -2,6 +2,7 @@
 #10/17/17
 #quiz3.py
 
+
 for i in range(-5, 6):
     print(i)
     
@@ -15,5 +16,11 @@ for i in range(13,332,2):
     total = total + i
 print(total)
 
-
+while True:
+    word = input('Enter a word: ')
+    print(word)
+    if 'z' in word:
+        break
+            
+    
 
